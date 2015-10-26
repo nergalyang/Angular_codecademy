@@ -1,19 +1,21 @@
 # Angular_codecademy
 
-These are seven Angular JS projects from codecademy.
+<h1>These are seven Angular JS projects from codecademy.</h1>
 
-The Calender project is an app with route for each view.
+<p>1.The Calender project is an app with route for each view.<br>
 
-The Outbox project is a email app mapping URL to views.
+2.The Outbox project is a email app mapping URL to views.<br>
 
-The PizzaDisplay project is a restaurant menu using filter and directives.
+3.The PizzaDisplay project is a restaurant menu using filter and directives.<br>
 
-The Routing project is single-page application showing photos.
+4.The Routing project is single-page application showing photos.<br>
 
-The Top10 project is to fetch data from server and display it in custom directives.
+5.The Top10 project is to fetch data from server and display it in custom directives.<br>
 
-The Bolt project is a movie review board using custom directives.
+6.The Bolt project is a movie review board using custom directives.<br>
 
-All projects are ready to be viewed in local server.
+7.The reader project is a e-reader.</p><br>
 
-There would be 3 more projects to be uploaded soon.
+<h3>All projects are ready to be viewed in local server.
+
+There would be 3 more projects to be uploaded soon.</h3>
